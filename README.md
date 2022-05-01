@@ -1,5 +1,3 @@
-# React
-
 ## [TodoList]
 
 <img src="./image/todolist.png" width="450px" height="300px"><img/><br/>
